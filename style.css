@@ -1,3 +1,7 @@
 body {
     color: hotpink;
 }
+.row {
+    padding: 20px;
+    display: flex;
+}
