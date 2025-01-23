@@ -2,7 +2,6 @@ body {
     color: hotpink;
 }
 .header-img{
-    margin: auto; 
-    padding: 50px;
-    margin: 50px;
+    margin: auto;
+    max-width: 100%;
 }
