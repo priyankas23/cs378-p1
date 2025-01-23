@@ -9,3 +9,8 @@ body {
     border: 10px;
     margin-bottom: 20px;
 }
+
+.text-1{
+    font-family: cursive;
+    color: orangered
+}
