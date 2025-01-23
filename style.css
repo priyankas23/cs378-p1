@@ -12,5 +12,6 @@ body {
 
 .text-1{
     font-family: cursive;
-    color: orangered
+    color: rgb(255, 134, 59);
+    text-align: center;
 }
