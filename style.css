@@ -1,9 +1,6 @@
 body {
     color: hotpink;
 }
-img{
-    max-width: 100%;
-    height: auto;
-    display: table;
-    margin: 0 auto;
+.header-img{
+    text-align: center;
 }
