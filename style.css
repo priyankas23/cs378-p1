@@ -16,5 +16,8 @@ body {
     text-align: center;
     max-width: 100%;
     display:flex;
-    font-size: 15px;
+}
+
+.text-1 h5{
+    font-size: 25px;
 }
