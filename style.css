@@ -5,14 +5,14 @@ body {
     align-items: center;
     display: flex; 
     max-width: 100%;
-    padding: 50px;
+    padding: 30px;
     border: 10px;
     margin-bottom: 20px;
 }
 
 .text-1{
     font-family: cursive;
-    color: rgb(255, 134, 59);
+    color: rgb(115, 192, 255);
     text-align: center;
     max-width: 100%;
     display:flex;
