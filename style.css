@@ -28,13 +28,18 @@ body {
 .text-2{
     text-align: center; 
     font-family:Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+}
+
+.container menu{
+    display: flex;
 }
 
 .column{
     float: left; 
 }
 .menu-row{
-    max-height: 75%;
+    max-height: 130%;
 }
 .menu-image{
     padding: 10px;
@@ -46,9 +51,11 @@ body {
     height: 100%;
     justify-content: center;
     border-radius: 10%;
+    object-fit: cover;
 }
 
 .menu-description{
     padding: 10px;
     width: 67%;
+    font-size: 14px;
 }
