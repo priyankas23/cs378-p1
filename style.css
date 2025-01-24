@@ -17,6 +17,7 @@ body {
     text-align: center;
     max-width: 100%;
     display:flex;
+    justify-content: center;
 }
 
 .text-1 h5{
@@ -27,4 +28,27 @@ body {
 .text-2{
     text-align: center; 
     font-family:Arial, Helvetica, sans-serif;
+}
+
+.column{
+    float: left; 
+}
+.menu-row{
+    max-height: 75%;
+}
+.menu-image{
+    padding: 10px;
+    width: 33%;
+}
+
+.menu-image img{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    border-radius: 10%;
+}
+
+.menu-description{
+    padding: 10px;
+    width: 67%;
 }
