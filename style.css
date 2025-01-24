@@ -61,7 +61,21 @@ body {
 }
 
 
-.add-button{
+.price {
+    display: inline; 
+    
+}
+.add-button {
     display: inline;
     justify-content: right;
+    border-radius: 30%;
+    border-color:white;
+    background-color: rgb(115, 192, 255);
+    color: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    inline-size: 4rem;
+    line-height: 1rem;
+    float: right;
 }
+
